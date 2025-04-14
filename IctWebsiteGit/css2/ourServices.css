@@ -1,0 +1,76 @@
+#footer{
+    background-color: black;
+    padding: 5% 0;
+}
+
+.a-tag a{
+    color: white;
+}
+
+.h6{
+    color: rgb(182, 182, 182);
+}
+
+.subscribe{
+    background-color: green;
+    border-color: black ;
+    color: white;
+}
+.cont-style{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.input-style{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.span{
+    font-size: 35px;
+    color:coral;
+}
+
+.need{
+    background-color: gray;
+    height: 500px;
+
+}
+
+.que{
+    color: black;
+    font-weight: 700;
+}
+
+#and:hover{
+    border-bottom: chocolate;
+    rotate: 7deg;
+}
+
+.ctmap:hover{
+    color: blueviolet;
+}
+
+.insta{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 25px;
+    vertical-align: middle;
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+}
+
+.fbook{
+    
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 25px;
+    vertical-align: middle;
+    color: white;
+    background: linear-gradient(100deg, #223a6e,#ffffff);
+}

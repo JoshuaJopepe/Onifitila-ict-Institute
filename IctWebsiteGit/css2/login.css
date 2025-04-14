@@ -1,0 +1,49 @@
+.head1{
+    margin-top: 20px;
+    font-size: 37px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.p1{
+    font-size: 24px;
+}
+
+.form{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+section{
+    background-color: white;
+    height: 630px;
+    width: 90%;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.submit{
+    background-color: black;
+    color: white;
+    font-family:sans-serif;
+}
+
+.forget{
+    text-decoration: none;
+}
+
+.forgetPassword{
+    text-decoration: none;
+    justify-content: space-between;
+    color:darkcyan;
+}
+
+.signIn{
+    background-color: deepskyblue;
+    border: none;
+}
+
+.p-sign{
+    justify-content: last baseline;
+}
